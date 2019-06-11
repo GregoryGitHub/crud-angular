@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+:root{
+  --azul:"#00898F";
+  --azul-escuro:"#00555A";
+  --laranja:"#FFA401";
+  --laraja-escuro:"#FF7C00";
+  --vermelho:"#FE2919";
+}
+
+nav{background-color:#FF7C00!important;}
+nav .nav-wrapper .brand-logo i{font-size: 2.5rem;}
